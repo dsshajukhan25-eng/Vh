@@ -1,0 +1,6 @@
+{
+  "name": "ToonMaker AI - কার্টুন ভিডিও স্টুডিও",
+  "description": "ভিডিও আপলোড করে কার্টুন ভিডিও তৈরি, স্বয়ংক্রিয় মিউজিক ও ভয়েসওভার যোগ, সাবটাইটেল এডিটর এবং সোশ্যাল মিডিয়ায় শেয়ারিং স্টুডিও।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
